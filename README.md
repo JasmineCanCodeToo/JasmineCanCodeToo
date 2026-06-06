@@ -1,4 +1,4 @@
-# Hi, I'm Jasmine 👋
+# Hi, I'm Jasmine 
 
 Cybersecurity, GRC, and IT professional with 7+ years of experience supporting SaaS platforms, healthcare technology systems, and enterprise environments. Experienced in authentication troubleshooting, incident response, workflow optimization, log analysis, and HIPAA-compliant operations, including hands-on support for Epic EMR workflows.
 
