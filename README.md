@@ -31,7 +31,6 @@ IT professional with 7+ years of experience supporting SaaS platforms, healthcar
 - Google IT Support Professional Certificate
 - DevOps Foundation Certificate
 - Google Cybersecurity Professional Certificate (In Progress)
-- Merit America Cybersecurity Program (In Progress)
 
 ## Featured Projects
 
