@@ -1,6 +1,6 @@
-# Hi, I'm Jasmine 
+# Hi, I'm Jasmine 👋
 
-Cybersecurity, GRC, and IT professional with 7+ years of experience supporting SaaS platforms, healthcare technology systems, and enterprise environments. Experienced in authentication troubleshooting, incident response, workflow optimization, log analysis, and HIPAA-compliant operations, including hands-on support for Epic EMR workflows.
+IT professional with 7+ years of experience supporting SaaS platforms, healthcare technology systems, and enterprise environments, with a growing focus on cybersecurity, GRC, and security operations. Experienced in authentication troubleshooting, incident response, workflow optimization, log analysis, and HIPAA-compliant operations, including hands-on support for Epic EMR workflows.
 
 ## Currently Learning
 
@@ -19,22 +19,30 @@ Cybersecurity, GRC, and IT professional with 7+ years of experience supporting S
 - Okta
 - Active Directory
 - Microsoft 365
-- VPN & MFA Troubleshooting
+- Google Workspace
+- DataDog
+- Splunk
+- Epic EMR
+- VPN, MFA & SSO Troubleshooting
 - Windows & macOS
 
 ## Certifications
 
 - Google IT Support Professional Certificate
-- DevOps Foundation
+- DevOps Foundation Certificate
 - Google Cybersecurity Professional Certificate (In Progress)
+- Merit America Cybersecurity Program (In Progress)
 
 ## Featured Projects
 
-- Cybersecurity Portfolio
 - TryHackMe Learning Journal
-- SQL Query Project
 - Incident Handler Journal
+- Cybersecurity Portfolio
+- SQL Query Project
+- Vulnerability Assessment
 
 📍 Ohio
 
 🔗 LinkedIn: linkedin.com/in/jasminealexussullivan
+
+🌐 Portfolio: https://jasminecancodetoo.github.io/-portfolio
