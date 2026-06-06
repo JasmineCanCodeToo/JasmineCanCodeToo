@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Jasmine 👋
 
-<!--
-**JasmineCanCodeToo/JasmineCanCodeToo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity, GRC, and IT professional with 7+ years of experience supporting SaaS platforms, healthcare technology systems, and enterprise environments. Experienced in authentication troubleshooting, incident response, workflow optimization, log analysis, and HIPAA-compliant operations, including hands-on support for Epic EMR workflows.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersecurity
+- Python
+- GRC & Security Operations
+- Splunk
+- TryHackMe Labs
+
+## Technical Skills
+
+- ServiceNow
+- Jira
+- Zendesk
+- Salesforce
+- Okta
+- Active Directory
+- Microsoft 365
+- VPN & MFA Troubleshooting
+- Windows & macOS
+
+## Certifications
+
+- Google IT Support Professional Certificate
+- DevOps Foundation
+- Google Cybersecurity Professional Certificate (In Progress)
+
+## Featured Projects
+
+- Cybersecurity Portfolio
+- TryHackMe Learning Journal
+- SQL Query Project
+- Incident Handler Journal
+
+📍 Ohio
+
+🔗 LinkedIn: linkedin.com/in/jasminealexussullivan
