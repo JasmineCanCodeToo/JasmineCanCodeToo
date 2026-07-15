@@ -28,9 +28,10 @@ IT professional with 7+ years of experience supporting SaaS platforms, healthcar
 
 ## Certifications
 
-- Google IT Support Professional Certificate
-- DevOps Foundation Certificate
-- Google Cybersecurity Professional Certificate (In Progress)
+- Google Cybersecurity Professional Certificate	 
+- Google Project Management Professional                                                                                                                                                           
+- Google IT Support Professional Certificate                                                                                                                                                         
+- Google IT Automation with Python                                                                                                                                                                                            
 
 ## Featured Projects
 
